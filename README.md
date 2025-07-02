@@ -25,12 +25,11 @@
 ---
 
 <!-- GitHub Stats -->
-## GitHub Stats
 
 <a href="https://github.com/GabrieLeitao">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieLeitao" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieLeitao" />
 </a>
 <a href="https://github.com/GabrieLeitao">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrieLeitao&layout=compact&langs_count=8&card_width=320" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrieLeitao&layout=compact&langs_count=8&card_width=350" />
 </a>
 
