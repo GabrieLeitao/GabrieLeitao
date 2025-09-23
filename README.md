@@ -19,7 +19,7 @@
 > *"Dum spiro, spero"*
 
 <!-- - 🔭 Currently developing ...   -->
-- 🌱 Exploring biologically inspired neural networks and efficient AI models  
+- 🌱 Exploring more efficient neural networks  
 - 💡 Always curious
 
 ---
