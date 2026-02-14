@@ -4,7 +4,7 @@
 </h1> -->
 
 <p align="center" style="font-size: 1.25rem; color: #415a77; font-style: italic;">
-  Engineering Student | Machine Learning Enthusiast
+  Engineering Student
 </p>
 
 <p align="center">
@@ -13,19 +13,7 @@
 
 ---
 
-<!-- About Me -->
-## About Me
 
-> *"Dum spiro, spero"*
+> *"The cure for boredom is curiosity. There is no cure for curiosity."* -- Dorothy Parker
 
-<!-- - 🔭 Currently developing ...   -->
-- 🌱 Exploring more efficient neural networks  
-- 💡 Always curious
-
----
-
-<!-- GitHub Stats -->
-<a href="https://github.com/GabrieLeitao">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrieLeitao&layout=compact&langs_count=8&card_width=350" />
-</a>
-
+> All generalizations are false, including this one. -- Mark Twain
