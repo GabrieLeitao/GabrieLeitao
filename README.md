@@ -16,4 +16,4 @@
 
 > *"The cure for boredom is curiosity. There is no cure for curiosity."* -- Dorothy Parker
 
-> All generalizations are false, including this one. -- Mark Twain
+> *"All generalizations are false, including this one."* -- Mark Twain
