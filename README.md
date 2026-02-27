@@ -12,7 +12,7 @@
 </p>
 
 ---
-[Portfolio](https://gabrieleitao.github.io/my-portfolio/)
+-> Check [Portfolio](https://gabrieleitao.github.io/my-portfolio/)
 ---
 
 > *"The cure for boredom is curiosity. There is no cure for curiosity."* -- Dorothy Parker
